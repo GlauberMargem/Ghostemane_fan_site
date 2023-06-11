@@ -56,21 +56,21 @@ header nav ul li a:hover
 #index
 {
     background-color: gray;
-    background-image: url(/images/homeback.jpg);
+    background-image: url(images/homeback.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 @font-face {
     font-family:'Berlin Sans FB';
-    src: url(/FONTS/BRLNSB.TTF);
+    src: url(fonts/BRLNSB.TTF);
 }
 @font-face {
     font-family: 'Aqua Grotesque';
-    src: url(/FONTS/aqua.ttf);
+    src: url(fonts/aqua.ttf);
 }
 @font-face {
     font-family: 'poppins';
-    src: url(/FONTS/Poppins-Regular.ttf);
+    src: url(fonts/Poppins-Regular.ttf);
 }
 section
 {
@@ -144,7 +144,7 @@ footer:hover>#credit
 /*============================================== Biografia =============================================================*/
 #Bio
 {
-    background-image: url(/images/bioback.jpg);
+    background-image: url(images/bioback.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -212,7 +212,7 @@ h4
 {
     width: 100%;
     height: 100vh;
-    background-image: url(/images/albuns/antiicon.jpg);
+    background-image: url(images/albuns/antiicon.jpg);
     background-size: cover;
 }
 .aicont
@@ -265,7 +265,7 @@ h4
 {
     width: 100%;
     height: 100vh;
-    background-image: url(/images/albuns/hmnerrorbck.jpg);
+    background-image: url(images/albuns/hmnerrorbck.jpg);
     background-size: cover;
     margin-top: 0vh;
 }
@@ -301,7 +301,7 @@ h4
 {
     width: 100%;
     height: 100vh;
-    background-image: url(/images/albuns/noiseback.png);
+    background-image: url(images/albuns/noiseback.png);
     background-size: cover;
     margin-top: 0vh;
 }
@@ -322,7 +322,7 @@ h4
 }
 #fotosbdy
 {
-    background:url(/images/fotos/fotos_back.jpg);
+    background:url(images/fotos/fotos_back.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }    
@@ -351,7 +351,7 @@ h4
 /*======================================================Loja===========================================================*/
 #lojabdy
 {
-    background-image: url(/images/lojaback.jpg);
+    background-image: url(images/lojaback.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: -24vw;
@@ -421,7 +421,7 @@ h4
 /*======================================================videos===========================================================*/
 #videosbdy
 {
-    background-image: url(/images/videoback.jpg);
+    background-image: url(images/videoback.jpg);
     background-position: 25vh -35vh;
 }
 #vidorg
