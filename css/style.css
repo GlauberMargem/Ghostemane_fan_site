@@ -56,7 +56,7 @@ header nav ul li a:hover
 #index
 {
     background-color: gray;
-    background-image: url(images/homeback.jpg);
+    background-image: url(./images/homeback.JPG);
     background-repeat: no-repeat;
     background-size: cover;
 }
