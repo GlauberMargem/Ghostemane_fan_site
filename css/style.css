@@ -55,7 +55,7 @@ header nav ul li a:hover
 /*================================================== CSS DA HOME PAGE ==================================================*/
 #index
 {
-    background-image: url(images/homeback.JPG);
+    background-image: url(../images/homeback.JPG);
     background-repeat: no-repeat;
     background-size: cover;
 }
